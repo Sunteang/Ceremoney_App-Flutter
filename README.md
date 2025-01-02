@@ -1,17 +1,7 @@
-Purpose: For all ceremony such as Wedding, Anniversary, Party, Housewarning, Graduation, Birthday, etc.
+## Purpose:
 
-A new Flutter project.
+For all ceremony such as Wedding, Anniversary, Party, Housewarning, Graduation, Birthday, etc.
 
-## Getting Started
+### Build with
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Wedding_Service_App-Flutter
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" width="30" height="30" /> Flutter
