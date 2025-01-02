@@ -1,4 +1,4 @@
-# testing
+Purpose: For all ceremony such as Wedding, Anniversary, Party, Housewarning, Graduation, Birthday, etc.
 
 A new Flutter project.
 
